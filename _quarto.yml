@@ -3,20 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "kyraxue.github.io"
+  title: "Kyra Xue"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - experience.qmd
+      - projects.qmd
 
 format:
   html:
     theme:
-      - cosmo
+      - litera
       - brand
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

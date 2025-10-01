@@ -1,11 +1,16 @@
 ---
-title: "kyraxue.github.io"
+title: "Kyra Xue"
+image: media/headshot.jpeg
+toc: false
+about: 
+  template: trestles
+  image-shape: rectangle
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/kyraxue/ 
+    - text: Email
+      href: mailto:kyraxue21@gmail.com
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hello! My name is Kyra, and I'm student at UCSB double majoring in Environmental Studies and Geography with an emphasis in GIS. 
